@@ -14,4 +14,4 @@ to add products and sell them, performing all CRUD operations to do so.
 * Navigation
 * Forms
 * HTTP Request
-* Auth
+* Firebase Auth
