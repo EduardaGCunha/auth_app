@@ -10,8 +10,8 @@ to add products and sell them, performing all CRUD operations to do so.
 
 ## Skills used: 
 
-*State Management
-*Navigation
-*Forms
-*HTTP Request
-*Auth
+-State Management
+-Navigation
+-Forms
+-HTTP Request
+-Auth
